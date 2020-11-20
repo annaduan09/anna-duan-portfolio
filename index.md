@@ -1,11 +1,11 @@
-## Portfolio
+## Anna's Portfolio
 
 ---
 
-### Category Name 1 
+### My past projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chicago arrest prediction project](/sample_page)
+<img src="images/predPol?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### My current projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
