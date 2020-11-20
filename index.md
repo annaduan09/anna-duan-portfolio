@@ -9,7 +9,7 @@
 
 ---
 [Estimating home sales prices in Miami](https://github.com/annaduan09/Miami-Oct12/blob/master/PANDA_Midterm.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pricesMiami.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
