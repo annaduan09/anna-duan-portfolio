@@ -4,11 +4,11 @@
 
 ### My past projects
 
-[Chicago arrest prediction project](/sample_page)
+[Predicting arrest risk in Chicago](/sample_page)
 <img src="images/predPol.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Estimating home sales prices in Miami](https://github.com/annaduan09/Miami-Oct12/blob/master/PANDA_Midterm.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
