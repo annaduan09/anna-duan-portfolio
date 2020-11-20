@@ -12,7 +12,7 @@
 <img src="images/pricesMiami.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Who gets a home repair subsidy?](https://github.com/annaduan09/Home-Repair-Tax-Credit-Program/blob/master/AnnaDuan_HW4_MUSA508.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
