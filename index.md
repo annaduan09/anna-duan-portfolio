@@ -5,7 +5,7 @@
 ### My past projects
 
 [Chicago arrest prediction project](/sample_page)
-<img src="images/predPol?raw=true"/>
+<img src="images/predPol.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
