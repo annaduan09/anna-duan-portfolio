@@ -40,7 +40,6 @@ I reported for Penn's independent student newspaper, The Daily Pennsylvanian, fo
 Over the summer of 2020, I was one of 5 [Jacques Gordon Fellows](https://penntoday.upenn.edu/news/improving-quality-life-urban-cities) who received a stipend to pursue an internship around improving the quality of life in cities. At the end of the summer, as a reflection piece, my fellowship cohort co-authored an article about our thoughts on COVID-19 and the future of cities. 
 - [Recidivism Prediction Memo](/file/recidMemo) 
 In this memo, I recommend that the City of Chicago adopt a new algorithm to use for allocating spots in an ex-offender job training program. I address algorithmic fairness concerns and advocate for the financial and societal benefits of identifying ex-offenders at high risk of recidivism to allow into the program.
-<img src="images/recid.jpg?raw=true"/>  
 
 
 ---
