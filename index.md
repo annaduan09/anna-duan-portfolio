@@ -8,7 +8,7 @@
 <img src="images/predPol.jpg?raw=true"/>
 
 ---
-[Estimating home sales prices in Miami](https://github.com/annaduan09/Miami-Oct12/blob/master/PANDA_Midterm.html)
+[Estimating home sales prices in Miami](/file/PANDA_Midterm.html)
 <img src="images/pricesMiami.jpg?raw=true"/>
 
 ---
