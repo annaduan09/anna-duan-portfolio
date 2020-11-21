@@ -24,24 +24,27 @@
 ---
 ### Writing Samples
 [**Economic Motives of County Jail Expansion 1970-Present**](/file/ruralIncarc.pdf) 
-This paper examines  policies and economic trends at local, state, and national levels to illuminate the incentives driving the expansion of rural incarceration. This paper is [published in the Johns Hopkins Macksey Journal](https://www.mackseyjournal.org/publications/vol1/iss1/106/).  
+This paper analyzes  policies and economic trends at local, state, and national levels to illuminate the incentives driving the expansion of rural incarceration. This paper is [published in the Johns Hopkins Macksey Journal](https://www.mackseyjournal.org/publications/vol1/iss1/106/).  
 * [Conference presentation](https://www.mackseysymposium.org/cgi/viewcontent.cgi?article=1110&context=virtual2020)
 
 [**Philadelphia Older Adults' Senior Center Access via Transit**]  
-In this paper which I co-authored with Shengxiao (Alex) Li, Haoyu Hu, and Tony Smith, we look at older 
-
-[**Recidivism Prediction Memo**](/file/recidMemo)  
-In this memo, I recommend that the City of Chicago adopt a new algorithm to use for allocating spots in an ex-offender job training program. I address algorithmic fairness concerns and advocate for the financial and societal benefits of identifying ex-offenders at high risk of recidivism to allow into the program.
-<img src="images/recid.jpg?raw=true"/>
-
+In this paper which I co-authored with Shengxiao (Alex) Li, Haoyu Hu, and Tony Smith, we examine older adults' time-varying accessibility to Philadelphia senior centers via public transit. We also compare accessibility across census tracts and demographics. We will present this research at the [International Association for China Planning Annual Conference](http://www.china-planning.org/alpha/annual-conference-2020/) and the [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx) this winter.  
+* [Research poster](/file/IUR Poster)
+* [Blog: what is a senior center, anyway?](https://medium.com/@brickandpave/so-whats-a-senior-center-anyway-d65e26d18ecb)
+* [Methodology](/file/SEPTA_MethodsMemo) and [validity](file/SEPTA_ValidityMemo) memos
+* [Policy recommendations presentation](/file/SEPTA_PolicyPres)
 
 ---
 
 
-### Other work
+### Other Writing
 
-- [Journalism](https://www.thedp.com/staff/anna-duan)
-
+- [Journalism](https://www.thedp.com/staff/anna-duan)  
+I reported for Penn's independent student newspaper, The Daily Pennsylvanian, for one year, focusing on research and politics stories.
+- [Recidivism Prediction Memo](/file/recidMemo) 
+In this memo, I recommend that the City of Chicago adopt a new algorithm to use for allocating spots in an ex-offender job training program. I address algorithmic fairness concerns and advocate for the financial and societal benefits of identifying ex-offenders at high risk of recidivism to allow into the program.
+<img src="images/recid.jpg?raw=true"/>  
+- [Transportation Equity Blog Piece](https://www.metroplanning.org/news/8913/Mobility-is-Justice-Centering-equity-in-transportation-planning)
 ---
 
 
