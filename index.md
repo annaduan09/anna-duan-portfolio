@@ -30,7 +30,7 @@ In this paper which I co-authored with Shengxiao (Alex) Li, Haoyu Hu, and Tony S
 * [Blog: what is a senior center, anyway?](https://medium.com/@brickandpave/so-whats-a-senior-center-anyway-d65e26d18ecb)
 * [Methodology](/file/SEPTA_MethodsMemo) and [validity](file/SEPTA_ValidityMemo) memos
 * [Policy recommendations presentation](/file/SEPTA_PolicyPres)
-<img src="images/SEPTA_descriptiveAnalysis?raw=true"/>
+<img src="images/SEPTA_descriptiveAnalysis.jpg?raw=true"/>
 
 ---
 # Other Writing
