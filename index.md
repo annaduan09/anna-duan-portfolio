@@ -4,24 +4,45 @@
 
 ### Predictive Modeling and Machine Learning Using R
 
-[**Predicting Arrest Risk in Chicago**](/file/AnnaDuan_Predictive-Policing_MUSA508.html)
-Bingchu Chen and I created this model to predict future arrest risk in Chicago, Illinois. Our goal is to identify communities are projected to experience a high incidence of arrests and allocate social services to these  hot-spots.
+[**Predicting Arrest Risk in Chicago**](/file/AnnaDuan_Predictive-Policing_MUSA508.html)  
+[Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I created this model to predict future arrest risk in Chicago, Illinois. Our goal is to identify communities are projected to experience a high incidence of arrests and allocate social services to these  hot-spots.  
 * [Github repository](https://github.com/annaduan09/Project-3-Risk-Prediction)
 <img src="images/predPol.jpg?raw=true"/>
 
 ---
-[**Estimating Home Sale Prices in Miami**](/file/PANDA_Midterm.html)
-Bingchu Chen and I designed this model to predict home sales prices in Miami and Miami Beach, Florida.
+[**Estimating Home Sale Prices in Miami**](/file/PANDA_Midterm.html)  
+[Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I designed this model to predict home sales prices in Miami and Miami Beach, Florida.  
 * [Github repository](https://github.com/annaduan09/Miami-Home-Sales-Prediction)
 <img src="images/pricesMiami.jpg?raw=true"/>
 
 ---
-[**Allocating Home Repair Subsidies**](/file/HomeRepairSubsidy.html)
-Bingchu Chen and I made this algorithm to help the Department of Housing and Community Development(HCD) allocate marketing resources for a home repair tax credit program. Using this algorithm, HCD can identify the homeowners most likely to take the credit and increase theirs and their neighbors' home values.
+[**Allocating Home Repair Subsidies**](/file/HomeRepairSubsidy.html)  
+[Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I made this algorithm to help the Department of Housing and Community Development(HCD) allocate marketing resources for a home repair tax credit program. Using this algorithm, HCD can identify the homeowners most likely to take the credit and increase theirs and their neighbors' home values.  
 * [Github repository](https://github.com/annaduan09/Home-Repair-Tax-Credit-Program)
 <img src="images/repairSubsidy.jpg?raw=true"/>
 
 ---
+### Writing Samples
+[**Economic Motives of County Jail Expansion 1970-Present**](/file/ruralIncarc.pdf) 
+In this paper, I examine  policies and economic trends at local, state, and national levels to illuminate the incentives driving the expansion of rural incarcertion. This paper is [published in the Johns Hopkins Macksey Journal](https://www.mackseyjournal.org/publications/vol1/iss1/106/).  
+* [Conference presentation](https://www.mackseysymposium.org/cgi/viewcontent.cgi?article=1110&context=virtual2020)
+<img src="images/ruralIncar.jpg?raw=true"/>
+
+
+[**Recidivism Prediction Memo**](/file/recidMemo)  
+In this memo, I recommend that the City of Chicago adopt a new algorithm to use for allocating spots in an ex-offender job training program. I address algorithmic fairness concerns and advocate for the financial and societal benefits of identifying ex-offenders at high risk of recidivism to allow into the program.
+<img src="images/recid.jpg?raw=true"/>
+
+
+---
+
+---
+
+
+---
+
+
+
 
 ### My current projects
 
