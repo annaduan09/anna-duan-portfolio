@@ -1,4 +1,4 @@
-## Predictive Modeling and Machine Learning Using R
+# Predictive Modeling and Machine Learning Using R
 
 [**Predicting Arrest Risk in Chicago**](/file/AnnaDuan_Predictive-Policing_MUSA508.html)  
 [Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I created this model to predict future arrest risk in Chicago, Illinois. Our goal is to identify communities which are projected to experience a high incidence of arrests and allocate social services to these  hot-spots.  
@@ -18,7 +18,7 @@
 <img src="images/repairSubsidy.jpg?raw=true"/>
 
 ---
-## Publications
+# Publications
 [**Economic Motives of County Jail Expansion 1970-Present**](/file/ruralIncarc.pdf) 
 This paper analyzes  policies and economic trends at local, state, and national levels to illuminate the incentives driving the expansion of rural incarceration. This paper is [published in the Johns Hopkins Macksey Journal](https://www.mackseyjournal.org/publications/vol1/iss1/106/).  
 * [Conference presentation](https://www.mackseysymposium.org/cgi/viewcontent.cgi?article=1110&context=virtual2020)
@@ -31,7 +31,7 @@ In this paper which I co-authored with Shengxiao (Alex) Li, Haoyu Hu, and Tony S
 * [Policy recommendations presentation](/file/SEPTA_PolicyPres)
 
 ---
-## Other Writing
+# Other Writing
 
 - [Journalism](https://www.thedp.com/staff/anna-duan)  
 I reported for Penn's independent student newspaper, The Daily Pennsylvanian, for one year, focusing on research and politics stories.
