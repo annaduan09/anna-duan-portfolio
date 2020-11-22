@@ -39,7 +39,7 @@ This paper analyzes  policies and economic trends at local, state, and national 
 In this paper which I co-authored with Shengxiao (Alex) Li, Haoyu Hu, and Tony Smith, we examine older adults' time-varying accessibility to Philadelphia senior centers via public transit. We also compare accessibility across census tracts and demographics. We will present this research at the [International Association for China Planning Annual Conference](http://www.china-planning.org/alpha/annual-conference-2020/) and the [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx) this winter.  
 * [Research poster](/file/Poster.pdf)
 * [Blog: what is a senior center, anyway?](https://medium.com/@brickandpave/so-whats-a-senior-center-anyway-d65e26d18ecb)
-* [Methodology](/file/SEPTA_MethodsMemo) and [validity](file/SEPTA_ValidityMemo) memos
+* [Methodology](/file/SEPTA_MethodsMemo.pdf) and [validity](file/SEPTA_ValidityMemo.pdf) memos
 * [Policy recommendations presentation](/file/SEPTA_PolicyPres)   
 
 <img src="images/SEPTA_descriptiveAnalysis.jpg?raw=true"/>  
@@ -57,7 +57,7 @@ I reported for Penn's independent student newspaper, The Daily Pennsylvanian, fo
 - [Is COVID-19 the End of Cities?](https://urban.sas.upenn.edu/future-cities-blog-post-urban-studies-2020-gordon-fellows)  
 Over the summer of 2020, I was one of 5 [Jacques Gordon Fellows](https://penntoday.upenn.edu/news/improving-quality-life-urban-cities) who received a stipend to pursue an internship around improving the quality of life in cities. At the end of the summer, as a reflection piece, my fellowship cohort co-authored an article about our thoughts on COVID-19 and the future of cities.  
 
-- [Recidivism Prediction Memo](https://annaduan09.github.io/anna-duan-portfolio/file/recidMemo) 
+- [Recidivism Prediction Memo](https://annaduan09.github.io/anna-duan-portfolio/file/recidMemo.pdf) 
 In this memo, I recommend that the City of Chicago adopt a new algorithm to use for allocating spots in an ex-offender job training program. I address algorithmic fairness concerns and advocate for the financial and societal benefits of identifying ex-offenders at high risk of recidivism to allow into the program.
 
 ---
