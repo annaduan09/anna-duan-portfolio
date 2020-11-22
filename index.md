@@ -8,7 +8,7 @@
 
 
 ---
-### [**Estimating Home Sale Prices in Miami**](https://annaduan09.github.io/anna-duan-portfolio/file/PANDA_Midterm.html)  
+### [**Estimating Home Sale Prices in Miami**](https://annaduan09.github.io/anna-duan-portfolio/file/salePreds.html)  
 [Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I designed this model to predict home sales prices in Miami and Miami Beach, Florida.  
 * [Github repository](https://github.com/annaduan09/Miami-Home-Sales-Prediction)
 <img src="images/pricesMiami.jpg?raw=true"/>  
