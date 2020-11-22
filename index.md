@@ -37,7 +37,7 @@ This paper analyzes  policies and economic trends at local, state, and national 
 ---
 ### **Philadelphia Older Adults' Senior Center Access via Transit** 
 In this paper which I co-authored with Shengxiao (Alex) Li, Haoyu Hu, and Tony Smith, we examine older adults' time-varying accessibility to Philadelphia senior centers via public transit. We also compare accessibility across census tracts and demographics. We will present this research at the [International Association for China Planning Annual Conference](http://www.china-planning.org/alpha/annual-conference-2020/) and the [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx) this winter.  
-* [Research poster](/file/IURPoster)
+* [Research poster](/file/Poster.pdf)
 * [Blog: what is a senior center, anyway?](https://medium.com/@brickandpave/so-whats-a-senior-center-anyway-d65e26d18ecb)
 * [Methodology](/file/SEPTA_MethodsMemo) and [validity](file/SEPTA_ValidityMemo) memos
 * [Policy recommendations presentation](/file/SEPTA_PolicyPres)   
