@@ -1,42 +1,52 @@
-# Predictive Modeling and Machine Learning Using R
+# Predictive Modeling and Machine Learning Using R  
 
-[**Predicting Arrest Risk in Chicago**](https://annaduan09.github.io/anna-duan-portfolio/file/AnnaDuan_Predictive-Policing_MUSA508.html)  
+### [**Predicting Arrest Risk in Chicago**](https://annaduan09.github.io/anna-duan-portfolio/file/AnnaDuan_Predictive-Policing_MUSA508.html)  
 [Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I created this model to predict future arrest risk in Chicago, Illinois. Our goal is to identify communities which are projected to experience a high incidence of arrests and allocate social services to these  hot-spots.  
 * [Github repository](https://github.com/annaduan09/Project-3-Risk-Prediction)
-<img src="images/predPol.jpg?raw=true"/>
+<img src="images/predPol.jpg?raw=true"/>  
+
+
 
 ---
-[**Estimating Home Sale Prices in Miami**](https://annaduan09.github.io/anna-duan-portfolio/file/PANDA_Midterm.html)  
+### [**Estimating Home Sale Prices in Miami**](https://annaduan09.github.io/anna-duan-portfolio/file/PANDA_Midterm.html)  
 [Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I designed this model to predict home sales prices in Miami and Miami Beach, Florida.  
 * [Github repository](https://github.com/annaduan09/Miami-Home-Sales-Prediction)
-<img src="images/pricesMiami.jpg?raw=true"/>
+<img src="images/pricesMiami.jpg?raw=true"/>  
+
+
 
 ---
-[**Allocating Home Repair Subsidies**](https://annaduan09.github.io/anna-duan-portfolio/file/HomeRepairSubsidy.html)  
+### [**Allocating Home Repair Subsidies**](https://annaduan09.github.io/anna-duan-portfolio/file/HomeRepairSubsidy.html)  
 [Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I made this algorithm to help the Department of Housing and Community Development(HCD) allocate marketing resources for a home repair tax credit program. Using this algorithm, HCD can identify the homeowners most likely to take the credit and increase theirs and their neighbors' home values.  
 * [Github repository](https://github.com/annaduan09/Home-Repair-Tax-Credit-Program)
-<img src="images/repairSubsidy.jpg?raw=true"/>
+<img src="images/repairSubsidy.jpg?raw=true"/>  
+
+
 
 ---
-# Publications
-[**Economic Motives of County Jail Expansion 1970-Present**](/file/ruralIncarc.pdf) 
+# Publications  
+
+### [**Economic Motives of County Jail Expansion 1970-Present**](/file/ruralIncarc.pdf) 
 This paper analyzes  policies and economic trends at local, state, and national levels to illuminate the incentives driving the expansion of rural incarceration. This paper is [published in the Johns Hopkins Macksey Journal](https://www.mackseyjournal.org/publications/vol1/iss1/106/).  
 * [Conference presentation](https://www.mackseysymposium.org/cgi/viewcontent.cgi?article=1110&context=virtual2020)   
+<img src="images/ruralIncar.jpg?raw=true"/>  
 
-<img src="images/ruralIncar.jpg?raw=true"/>
+
 
 ---
-**Philadelphia Older Adults' Senior Center Access via Transit** 
+### **Philadelphia Older Adults' Senior Center Access via Transit** 
 In this paper which I co-authored with Shengxiao (Alex) Li, Haoyu Hu, and Tony Smith, we examine older adults' time-varying accessibility to Philadelphia senior centers via public transit. We also compare accessibility across census tracts and demographics. We will present this research at the [International Association for China Planning Annual Conference](http://www.china-planning.org/alpha/annual-conference-2020/) and the [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx) this winter.  
 * [Research poster](/file/IUR Poster)
 * [Blog: what is a senior center, anyway?](https://medium.com/@brickandpave/so-whats-a-senior-center-anyway-d65e26d18ecb)
 * [Methodology](/file/SEPTA_MethodsMemo) and [validity](file/SEPTA_ValidityMemo) memos
 * [Policy recommendations presentation](/file/SEPTA_PolicyPres)   
 
-<img src="images/SEPTA_descriptiveAnalysis.jpg?raw=true"/>
+<img src="images/SEPTA_descriptiveAnalysis.jpg?raw=true"/>  
+
+
 
 ---
-# Other Writing
+# Other Writing  
 
 - [Journalism](https://www.thedp.com/staff/anna-duan)  
 I reported for Penn's independent student newspaper, The Daily Pennsylvanian, for one year, focusing on research and politics stories.  
