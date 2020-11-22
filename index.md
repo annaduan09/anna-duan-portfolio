@@ -29,6 +29,7 @@
 ### [**Economic Motives of County Jail Expansion 1970-Present**](/file/ruralIncarc.pdf) 
 This paper analyzes  policies and economic trends at local, state, and national levels to illuminate the incentives driving the expansion of rural incarceration. This paper is [published in the Johns Hopkins Macksey Journal](https://www.mackseyjournal.org/publications/vol1/iss1/106/).  
 * [Conference presentation](https://www.mackseysymposium.org/cgi/viewcontent.cgi?article=1110&context=virtual2020)   
+
 <img src="images/ruralIncar.jpg?raw=true"/>  
 
 
