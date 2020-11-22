@@ -60,6 +60,9 @@ Over the summer of 2020, I was one of 5 [Jacques Gordon Fellows](https://penntod
 - [Recidivism Prediction Memo](https://annaduan09.github.io/anna-duan-portfolio/file/recidMemo.pdf) 
 In this memo, I recommend that the City of Chicago adopt a new algorithm to use for allocating spots in an ex-offender job training program. I address algorithmic fairness concerns and advocate for the financial and societal benefits of identifying ex-offenders at high risk of recidivism to allow into the program.
 
+- [An Ode to Urban Density](https://medium.com/anna-duan/ode-to-urban-density-458e0136cbce)  
+My blog piece on leaving Shenzhen for college and what this city taught me about urbanism.
+<img src="images/SZ.jpg?raw=true"/>  
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
