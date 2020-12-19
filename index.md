@@ -1,17 +1,19 @@
-# Predictive Modeling and Machine Learning Using R  
+# Predictive Modeling and Machine Learning Using R    
 
-### [**Predicting Arrest Risk in Chicago**](https://annaduan09.github.io/anna-duan-portfolio/file/AnnaDuan_Predictive-Policing_MUSA508.html)  
-[Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I created this model to predict future arrest risk in Chicago, Illinois. Our goal is to identify communities which are projected to experience a high incidence of arrests and allocate social services to these  hot-spots.  
-* [Github repository](https://github.com/annaduan09/Project-3-Risk-Prediction)
-<img src="images/predPol.jpg?raw=true"/>  
+
+
+### [**Forecasting Ambulance Demand in Santa Monica**](https://annaduan09.github.io/anna-duan-portfolio/file/Siren-EMS-Demand-Prediction.html)
+I collaborated with [Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) to build an algorithm which predicts future EMS calls in Santa Monica. Using this algorithm, fire stations can forecast future EMS demand and dispatch ambulances to be close to hotspots before emergencies occur. We developed this into an idea for an app, Siren, which alerts EMTs of impending demand hotspots and navigates them to the area. 
+* [Pechakucha presentation about Siren](https://www.youtube.com/watch?v=RZF3mLuHx_w&t=7s)
+<img src="images/EMS.jpg?raw=true"/>  
 
 
 
 ---
-###[**Forecasting Ambulance Demand in Santa Monica**](https://annaduan09.github.io/anna-duan-portfolio/file/Siren-EMS-Demand-Prediction.html)
-I collaborated with [Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) to build an algorithm which predicts future EMS calls in Santa Monica. Using this algorithm, fire stations can forecast future EMS demand and dispatch ambulances to be close to hotspots before emergencies occur. We developed this into an idea for an app, Siren, which alerts EMTs of impending demand hotspots and navigates them to the area. 
-* [Pechakucha presentation about Siren](https://www.youtube.com/watch?v=RZF3mLuHx_w&t=7s)
-<img src="images/EMS.jpg?raw=true"/>  
+### [**Predicting Arrest Risk in Chicago**](https://annaduan09.github.io/anna-duan-portfolio/file/AnnaDuan_Predictive-Policing_MUSA508.html)  
+[Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) and I created this model to predict future arrest risk in Chicago, Illinois. Our goal is to identify communities which are projected to experience a high incidence of arrests and allocate social services to these  hot-spots.  
+* [Github repository](https://github.com/annaduan09/Project-3-Risk-Prediction)
+<img src="images/predPol.jpg?raw=true"/>  
 
 
 
