@@ -11,7 +11,7 @@
 ###[**Forecasting Ambulance Demand in Santa Monica**](https://annaduan09.github.io/anna-duan-portfolio/file/Siren-EMS-Demand-Prediction.html)
 I collaborated with [Bingchu Chen](https://www.linkedin.com/in/bingchu-chen-bb772a1a6/) to build an algorithm which predicts future EMS calls in Santa Monica. Using this algorithm, fire stations can forecast future EMS demand and dispatch ambulances to be close to hotspots before emergencies occur. We developed this into an idea for an app, Siren, which alerts EMTs of impending demand hotspots and navigates them to the area. 
 * [Pechakucha presentation about Siren](https://www.youtube.com/watch?v=RZF3mLuHx_w&t=7s)
-
+<img src="images/EMS.jpg?raw=true"/>  
 
 
 
