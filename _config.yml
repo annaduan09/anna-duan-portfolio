@@ -1,6 +1,6 @@
 title: Anna Duan  # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: # your text below (remove <br> elements if you don't need line breaks)
+description: > # your text below (remove <br> elements if you don't need line breaks)
 Third year undergraduate student majoring in Urban Studies with a concentration in Spatial Analytics @ University of Pennsylvania 
   <br><br>
   I enjoy spatial data, transportation research, and powerlifting.
@@ -8,7 +8,6 @@ Third year undergraduate student majoring in Urban Studies with a concentration 
   <a href="https://www.linkedin.com/in/annaduan/">View My LinkedIn Profile</a>
   <br><br>
   <a href="https://medium.com/@brickandpave">Read My Blog</a>
-  <br><br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
