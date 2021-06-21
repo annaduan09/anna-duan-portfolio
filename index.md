@@ -8,7 +8,7 @@
 Tree canopy is defined as the area of land covered by trees when viewed from above, and offers public health, recreational, and environmental benefits to cities. In the past 10 years, Philadelphia has lost more than 1000 football fields' worth of tree canopy. In this semester-long project, my team helped the USDA Forest Service understand risk factors and spatial trends in tree canopy loss between 2008-2018 using open source data provided by the city. We identified construction and transportation land use as key risk factors for loss, and recommended that further tree planting efforts focus on South and Northeast Philadelphia. To help tree planting agencies and the City of Philadelphia allocate their resources, we visualized these trends on a web application along with alternative scenarios for tree loss based on 5 construction scenarios.
 * [Report](https://annaduan09.github.io/anna-duan-portfolio/file/Tree_Canopy_Loss.html)
 * [Web Application](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpalakagr.github.io%2FMUSAPracticum%2F%23&data=04%7C01%7Cerica.smith%40phila.gov%7C8e97d273789a4a59864308d9148aa0c2%7C2046864f68ea497daf34a6629a6cd700%7C0%7C0%7C637563409190127790%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0&sdata=2ndol1MhAlQJTg%2BSqczz3zffKGaZTv%2BJuNgiG1btk3s%3D&reserved=0)  
-<img src="images/Tree loss?raw=true"/>  
+<img src="images/Tree loss.jpg?raw=true"/>  
 
 ---
 ### [**Forecasting Ambulance Demand in Santa Monica**](https://annaduan09.github.io/anna-duan-portfolio/file/Siren-EMS-Demand-Prediction.html)
